@@ -16,5 +16,6 @@ Most important changes:
 
 Feel free to send me a message about what, when, what ifs and other questions.
 
-Thanks
+Thanks,
+
 Roland Wick
