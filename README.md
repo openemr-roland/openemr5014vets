@@ -4,7 +4,12 @@ This will be the repository for a customized version of openemr for veterinary c
 
 Most important changes:
 - Adapted Patient Summary, Demographic and History screen.
-- Changes to Globals 
+- Customized Immunizations
+- Customized Medical Issues
+- Customized CDR system
+- Customized Patient finder screen with transponder/tattoo nr, Owner's name
+- Species-specific setup (Lab, Exam form, CDR)
+- Changes to Global Settings 
 - Customized lists
 - Veterinary Code system how to
 - New veterinary encounter and Clinical exam forms
