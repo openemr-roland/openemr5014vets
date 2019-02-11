@@ -19,3 +19,6 @@ Feel free to send me a message about what, when, what ifs and other questions.
 Thanks,
 
 Roland Wick
+
+P.S.
+See screenshots for the development version. It is still a work in progress...
